@@ -1,0 +1,47 @@
+body {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+}
+
+.td-1 {
+    background-color: #EEEEEE;
+}
+
+.td-2 {
+    background-color: #7EE5DA;
+    width: 35%;
+}
+
+.td-3 {
+    background-color: #70CCC2;
+    width: 17%;
+}
+
+.td-3 a {
+    font-size: 13px;
+}
+
+.td-4 {
+    background-color: #62B3AA;
+    width: 40%;
+}
+
+.td-4 {
+    font-size: 13px;
+}
+
+.td-4 a {
+    padding-left: 10px;
+}
+
+p {
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+
